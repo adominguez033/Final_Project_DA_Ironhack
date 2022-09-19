@@ -1,6 +1,6 @@
 # Final_Project_DA_Ironhack
 
-![img]("C:\Users\alexd\Ironhack\Proyectos\Final_Project_DA_Ironhack\Images\hackshow_ADA.jpg")
+![img]('C:\Users\alexd\Ironhack\Proyectos\Final_Project_DA_Ironhack\Images\hackshow_ADA.jpg')
 
 
 ## Introducción y proceso

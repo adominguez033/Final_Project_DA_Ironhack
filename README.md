@@ -2,7 +2,7 @@
 
 ![hackshow_ADA](https://user-images.githubusercontent.com/104931581/190997094-5c3472d0-58bb-4f42-92c4-e620ff216e80.jpg).
 
-**Disclaimer:** Al tratarse de datos confidenciales, ni los datos originales se muestran en este repositorio, ni el EDA realizado para tratarlos. 
+**Disclaimer:** Al tratarse de datos confidenciales, ni los datos originales se muestran en este repositorio, ni el EDA realizado para tratarlos. Además, por el mismo motivo, el dashboard se presenta en PDF.
 
 ## Introducción y proceso
 
